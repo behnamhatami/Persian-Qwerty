@@ -1,4 +1,4 @@
-Persian-Qwerty-
+Persian-Qwerty
 ===============
 
 Persian Qwerty keyboard layout 
