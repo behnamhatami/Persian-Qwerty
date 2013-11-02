@@ -1,0 +1,6 @@
+sudo cp /usr/share/X11/xkb/symbols/ir ir.back && echo "OK"
+sudo cp ir /usr/share/X11/xkb/symbols/ir && echo "OK"
+sudo cp /usr/share/X11/xkb/rules/evdev.xml evdev.xml.back && echo "OK"
+sudo cp evdev.xml /usr/share/X11/xkb/rules/evdev.xml && echo "OK"
+sudo cp /usr/share/X11/xkb/rules/evdev.lst evdev.lst.back && echo "OK"
+sudo cp evdev.lst /usr/share/X11/xkb/rules/evdev.lst && echo "OK"
